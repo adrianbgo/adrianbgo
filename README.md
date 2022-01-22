@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Adrian Go</h1>
 <h3 align="center">A passionate Full Stack Developer from the United States</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianbgo" alt="adrianbgo" /></a> </p>
-
 - 🔭 I’m currently working on **react-monopoly**
 
 - 🌱 I’m currently learning **x64 ASM**
