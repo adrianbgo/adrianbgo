@@ -1,11 +1,9 @@
 <h1 align="center">Hello, I'm Adrian Go</h1>
 <h3 align="center">A passionate Full Stack Developer from the United States</h3>
 
-- 🔭 I’m currently working on **react-monopoly**
+- 🔭 I’m currently working on **[AirMiddleEarthDemo](https://github.com/adrianbgo/AirMiddleEarthDemo)**
 
 - 🌱 I’m currently learning **x64 ASM**
-
-- 👨‍💻 All of my projects are available at [adrianbgo.github.io](adrianbgo.github.io)
 
 - 💬 Ask me about **react, next, and solidity**
 
